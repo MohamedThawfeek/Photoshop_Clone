@@ -1,0 +1,19 @@
+.dwn {
+  margin: 6% 0;
+  padding: 10px 15px;
+  border-radius: 12px;
+  border: none;
+  outline: none;
+  width: 80%;
+  margin-left: 10%;
+  font-size: 15px;
+  font-weight: 500;
+  background: black;
+  color: white;
+  transition: background-color 150ms ease-in-out;
+  cursor: pointer;
+}
+.dwn:hover {
+  background-color: transparent;
+  color: white;
+}
